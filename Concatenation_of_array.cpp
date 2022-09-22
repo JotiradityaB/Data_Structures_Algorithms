@@ -1,6 +1,6 @@
-https://leetcode.com/problems/concatenation-of-array/submissions/
+//https://leetcode.com/problems/concatenation-of-array/submissions/
 
-
+#include <bits/stdc++.h>
 class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) {
